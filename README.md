@@ -1,2 +1,2 @@
 # git_re_l
-get re learning
+git re learning
